@@ -1,0 +1,6 @@
+- hosts: local
+  connection: local
+  sudo: yes
+  roles:
+    - nginx
+    - users

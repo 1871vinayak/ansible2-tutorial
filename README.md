@@ -19,5 +19,4 @@ Snaps: :smiley:
 ![:smile:](https://p0.craigupload.com/r/1983/0/209333.jpg)
 ![:smile:](https://p0.craigupload.com/r/1983/0/209334.jpg)
 ![:smile:](https://p0.craigupload.com/r/1983/18567/209335.jpg)
-![:smile:](https://p0.craigupload.com/r/1983/18567/209336.jpg)
 ![:smile:](https://p0.craigupload.com/r/1983/18567/209337.jpg)
